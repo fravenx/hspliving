@@ -4,7 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/hspliving.iml" filepath="$PROJECT_DIR$/.idea/hspliving.iml" />
       <module fileurl="file://$PROJECT_DIR$/hspliving-commodity/hspliving-commodity.iml" filepath="$PROJECT_DIR$/hspliving-commodity/hspliving-commodity.iml" />
-      <module fileurl="file://$PROJECT_DIR$/renren-fast/renren-fast.iml" filepath="$PROJECT_DIR$/renren-fast/renren-fast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hspliving-common/hspliving-common.iml" filepath="$PROJECT_DIR$/hspliving-common/hspliving-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/renren-generator/renren-generator.iml" filepath="$PROJECT_DIR$/renren-generator/renren-generator.iml" />
     </modules>
   </component>
 </project>
