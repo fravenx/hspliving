@@ -1,0 +1,30 @@
+GET http://localhost:9090/commodity/category/list
+
+<> 2022-12-04T210059.404.txt
+
+###
+
+GET http://localhost:9090/test
+
+<> 2022-12-04T210028.404.txt
+
+###
+
+GET http://localhost:9090/test
+
+<> 2022-12-04T205936.404.txt
+
+###
+
+GET http://localhost:9090/test
+
+<> 2022-12-04T205809.404.txt
+
+###
+
+GET http://localhost:9090/commodity/category/info/1
+
+<> 2022-12-04T205655.404.txt
+
+###
+
